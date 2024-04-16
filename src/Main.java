@@ -5,9 +5,9 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
 
-        //Comentario de prueba para Git hub
+
         Scanner scanner = new Scanner(System.in);
-        //int x = 3;
+
 
 
         System.out.println("*CALCULADORA DE HUELLA DE CARBONO*");
